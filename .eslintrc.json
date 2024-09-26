@@ -1,0 +1,11 @@
+{
+  "env": {
+    "browser": true,
+    "node": true, // Додає підтримку Node.js середовища
+    "es2021": true
+  },
+  "extends": ["plugin:vue/essential", "eslint:recommended"],
+  "rules": {
+
+  }
+}
